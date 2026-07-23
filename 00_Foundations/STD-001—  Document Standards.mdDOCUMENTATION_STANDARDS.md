@@ -1,6 +1,6 @@
-# Repository Structure
+# Document Standards 
 
-**Document ID:** DOC-001  
+**Document ID:** STD-001  
 **Title:** Document Standards    
 **Version:** 1.0.0  
 **Status:** Approved (Baseline)  
