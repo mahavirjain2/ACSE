@@ -1,6 +1,6 @@
 # Repository Structure
 
-**Document ID:** DOC-002  
+**Document ID:** STD-002  
 **Title:** Repository Structure  
 **Version:** 1.0.0  
 **Status:** Approved (Baseline)  
