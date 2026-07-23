@@ -1,12 +1,12 @@
 # Markdown Style Guide
 
-**Document ID:** STD-003
-**Title:** Markdown Style Guide
-**Version:** 1.0.0
-**Status:** Approved (Baseline)
-**Layer:** Foundation
-**Owner:** Chief Enterprise Architect
-**Dependencies:** STD-001 Documentation Standards, STD-002 Repository Structure
+**Document ID:** STD-003  
+**Title:** Markdown Style Guide  
+**Version:** 1.0.0  
+**Status:** Approved (Baseline)  
+**Layer:** Foundation  
+**Owner:** Chief Enterprise Architect  
+**Dependencies:** STD-001 Documentation Standards, STD-002 Repository Structure  
 
 ---
 
