@@ -1,16 +1,13 @@
-# 📘DOC-001- Document Standards
+# Repository Structure
 
-**File Name**
-
-```text
-00_Foundations/DOCUMENTATION_STANDARDS.md
-```
-
-**Version:** 0.1.0
-
-**Status:** Draft
-
-**Priority:** Critical
+**Document ID:** DOC-001  
+**Title:** Document Standards    
+**Version:** 1.0.0  
+**Status:** Approved (Baseline)  
+**Layer:** Foundation  
+**Owner:** Chief Enterprise Architect  
+**Dependencies:** DOC-000  
+**Repository:** AI Compliance Studio Enterprise (ACSE)  
 
 ---
 
